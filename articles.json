@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "total_articles": 1
+    },
+    "articles": [
+        {
+            "original_title": "Your article title",
+            "original_link": "https://example.com/article",
+            "published_time": "2026-01-06T17:41:00.000Z",
+            "formatted_data": {
+                "title": "Formatted Title",
+                "introductory_paragraph": "Introduction text...",
+                "descriptive_paragraph": "<p>Description...</p>"
+            }
+        }
+    ]
+}
